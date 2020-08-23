@@ -1,4 +1,8 @@
-### Hi there 👋, I'm Sirojiddin
+# Hi there, I'm Sirojiddin 👋
+I am a student of KFU
+- 🔭 I’m currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
+- 🌱 I’m learning CS and improving my knowledge of Java and Python
+- 📫 How to reach me: mail me siroj.serj15@outlook.com
 
 <!--
 **SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
