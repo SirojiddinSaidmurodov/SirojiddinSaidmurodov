@@ -3,7 +3,7 @@ I am a student of [KFU](https://kpfu.ru)
 - 🔭 I’m currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
 - 🌱 I’m learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
-
+- 📰 You can read about my dev experience in my blog: [keepeasy.tech.blog](https://keepeasy.tech.blog)
 <!--
 **SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 </p>
 
-<h1>Stats</h1>
+<h2>Stats</h2>
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
