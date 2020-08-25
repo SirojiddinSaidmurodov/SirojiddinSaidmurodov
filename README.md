@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact">
-</p>
 ## Languages and tools:
 <p>
 <img width=15% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
@@ -41,3 +34,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img width=15% src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 </p>
+##Stats
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+![Sirojiddin's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&hide=html,css)
