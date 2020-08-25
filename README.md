@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><br>
 <img width=15% src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
 <img width=15% src="">
 </p>
