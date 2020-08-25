@@ -3,7 +3,7 @@ I am a student of [KFU](https://kpfu.ru)
 - 🔭 I’m currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
 - 🌱 I’m learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
-- 📰 You can read about my dev experience in my blog: [keepeasy.tech.blog](https://keepeasy.tech.blog)
+- 📰 You can read about my dev-experience in my [keepeasy.tech.blog](https://keepeasy.tech.blog)
 <!--
 **SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
