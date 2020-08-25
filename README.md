@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ## Languages and tools:
 <p>
 <img width=15% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/python/python-official.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+<img width=15% src="">
 </p>
