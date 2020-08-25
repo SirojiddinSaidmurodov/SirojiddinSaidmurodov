@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-![Sirojiddin's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact)](https://github.com/sirojiddinsaidmurodov)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact">
+</p>
 ## Languages and tools:
 <p>
 <img width=15% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
