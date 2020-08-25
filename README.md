@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
-<img width=15% src="">
+<img width=15% src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 </p>
