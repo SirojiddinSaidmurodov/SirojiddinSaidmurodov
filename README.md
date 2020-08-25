@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
 </p>
-##Stats
+
+<h1>Stats</h1>
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
