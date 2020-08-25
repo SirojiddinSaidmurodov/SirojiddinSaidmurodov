@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-<img width=15% src="">
+<img width=15% src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg">
 </p>
