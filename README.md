@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![Sirojiddin's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox)
 ## Languages and tools:
 <img width=10% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+<img width=10% src="https://www.vectorlogo.zone/logos/python/python-official.svg">
+<img width=10% src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+
+
