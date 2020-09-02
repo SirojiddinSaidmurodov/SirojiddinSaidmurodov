@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-<img width=15% src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><br>
 <img width=15% src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"><br>
+<img width=15% src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
