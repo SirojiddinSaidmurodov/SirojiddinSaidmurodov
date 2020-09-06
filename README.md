@@ -42,4 +42,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 ![Sirojiddin's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact)
