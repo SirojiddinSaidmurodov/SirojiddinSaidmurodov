@@ -1,7 +1,7 @@
 # Hi there, I'm Sirojiddin 👋
 I am a student of [KFU](https://kpfu.ru)
-- 🔭 I’m currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
-- 🌱 I’m learning CS and improving my knowledge of Java and Python
+- 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
+- 🌱 Learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
 - 📰 You can read about my dev-experience in my [keepeasy.tech.blog](https://keepeasy.tech.blog)
 <!--
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p><img width=50% src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox" alt="Sirojiddin's github stats">
-<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox" alt="Top Langs"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox" alt="Sirojiddin's github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs"></p>
