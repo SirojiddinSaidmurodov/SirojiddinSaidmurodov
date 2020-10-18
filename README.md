@@ -40,6 +40,5 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-![Sirojiddin's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact)
+<p><img width=50% src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox" alt="Sirojiddin's github stats">
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox" alt="Top Langs"></p>
