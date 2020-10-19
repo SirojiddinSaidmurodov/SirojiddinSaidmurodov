@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Sirojiddin's github stats"></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=radical&hide_border=true&card_width=445&langs_count=11" alt="Top Langs"></br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=radical&hide_border=true" alt="Wakatime"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Sirojiddin's github stats"></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox&hide_border=true&card_width=445&langs_count=11" alt="Top Langs"></br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=Last Week's Coding Activity" alt="Wakatime"></p>
 <p>
