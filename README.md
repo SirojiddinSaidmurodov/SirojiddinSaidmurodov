@@ -40,24 +40,21 @@ Here are some ideas to get you started:
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<div style=" display: grid;
-    grid-template-columns: repeat(2);
-    grid-template-rows: repeat(2);
-    grid-gap: 11px;">
-<img style="
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 1;
-    grid-row-end: 2;" src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Sirojiddin's github stats">
-<img style="
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 2;
-    grid-row-end: 3;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox&hide_border=true&card_width=445&langs_count=11" at="Top Langs">
-<img style="
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 1;
-    grid-row-end: 3;
-    object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=Last Week's Coding Activity" alt="Wakatime">
-</div>
+
+
+
+
+<table>
+    <tr>
+        <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Sirojiddin's github stats">
+        </td>
+        <td rowspan="2"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=Last Week's Coding Activity" alt="Wakatime">
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox&hide_border=true&card_width=445&langs_count=11" at="Top Langs">
+        </td>
+    </tr>
+</table>
