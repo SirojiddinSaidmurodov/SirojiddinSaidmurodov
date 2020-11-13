@@ -11,7 +11,9 @@
   
 </td>
 <td>
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=default">
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=novatorem">
+</a>
 </td>
 </tr>
 
