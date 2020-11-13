@@ -1,36 +1,21 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
 # Hi there, I'm Sirojiddin 👋
-<div class="row">
-<div class="column">
-I am a student of [KFU](https://kpfu.ru)
+<table>
+<tr>
+<td>
+
+- 👨‍🎓 I am a student of [KFU](https://kpfu.ru)
 - 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
 - 🌱 Learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
 - 📰 You can read about my dev-experience in my [keepeasy.tech.blog](https://keepeasy.tech.blog)
+  
+</td>
+<td>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=default">
+</td>
+</tr>
 
-</div>
-<div class="column">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=default">
-</div>
-</div>
+</table>
 
 <!--
 **SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,9 +57,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 
 
-<table style="border:none">
-    <tr style="border-collapse: collapse; border: none;">
-        <td style="border:none">
+<table>
+    <tr>
+        <td>
         <img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" alt="Sirojiddin's github stats">
         </td>
         <td rowspan="2" style="border:none"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=Last Week's Coding Activity" alt="Wakatime">
