@@ -1,9 +1,37 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 # Hi there, I'm Sirojiddin 👋
+<div class="row">
+<div class="column">
 I am a student of [KFU](https://kpfu.ru)
 - 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
 - 🌱 Learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
 - 📰 You can read about my dev-experience in my [keepeasy.tech.blog](https://keepeasy.tech.blog)
+
+</div>
+<div class="column">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=default">
+</div>
+</div>
+
 <!--
 **SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
