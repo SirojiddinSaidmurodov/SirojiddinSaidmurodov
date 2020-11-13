@@ -61,7 +61,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
         <td>
         <img src="https://github-readme-stats.vercel.app/api?username=sirojiddinsaidmurodov&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=My GitHub stats for this year" alt="Sirojiddin's github stats">
         </td>
-        <td rowspan="2" style="border:none"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=How mush time I spent last 7 days for..." alt="Wakatime">
+        <td rowspan="2" style="border:none"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@sirojiddin13&theme=gruvbox&hide_border=true&custom_title=How much time I spent last 7 days for..." alt="Wakatime">
         </td>
     </tr>
     <tr style="border-collapse: collapse; border: none;">
