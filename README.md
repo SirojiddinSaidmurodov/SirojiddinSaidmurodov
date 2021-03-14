@@ -1,9 +1,8 @@
 # Hi there, I'm Sirojiddin 👋
-
-<p>
+<!-- Your spotify on your github profile: https://github.com/kittinan/spotify-github-profile -->
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=compact"></a>
-
+<p>
 - 👨‍🎓 I am a student of [KFU](https://kpfu.ru)
 - 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
 - 🌱 Learning CS and improving my knowledge of Java and Python
@@ -12,21 +11,6 @@
 
 
 </p>
-
-<!--
-**SirojiddinSaidmurodov/SirojiddinSaidmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
