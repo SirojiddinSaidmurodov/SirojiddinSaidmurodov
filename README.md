@@ -2,7 +2,7 @@
 
 <p>
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=default"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wmxfd9crz8ul37zs792wnj6m7&cover_image=true&theme=compact"></a>
 
 - 👨‍🎓 I am a student of [KFU](https://kpfu.ru)
 - 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
