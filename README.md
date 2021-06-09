@@ -5,7 +5,7 @@
 <p>
 
 - 👨‍🎓 I am a student of [KFU](https://kpfu.ru)
-- 🔭 Currently working on [StudSystem 2.0](https://github.com/SirojiddinSaidmurodov/StudSystem-2.0)
+- 🔊 Check out my music recommender application http://kpfumusic.herokuapp.com/
 - 🌱 Learning CS and improving my knowledge of Java and Python
 - 📫 How to reach me: mail me siroj.serj15@outlook.com
 - 📰 You can read about my dev-experience in my [keepeasy.tech.blog](https://keepeasy.tech.blog)
