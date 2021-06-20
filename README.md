@@ -21,7 +21,7 @@
 <img width=15% src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><br>
-<img width=15% src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"><br>
 <img width=15% src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
