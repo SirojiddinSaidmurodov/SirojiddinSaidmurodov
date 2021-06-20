@@ -22,8 +22,8 @@
 <img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><br>
 <img width=15% src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
-<img width=15% src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"><br>
+<img width=15% src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+<img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"><br>
 <img width=15% src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"><br>
