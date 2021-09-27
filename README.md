@@ -52,3 +52,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     </tr>
 </table>
 
+![Profile views](https://gpvc.arturio.dev/SirojiddinSaidmurodov)
