@@ -46,12 +46,15 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
         </th>
     </tr>
     <tr>
-        <td>
+        <th>
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=SirojiddinSaidmurodov&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D">
+        </th>
+        <th>
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinsaidmurodov&layout=compact&theme=gruvbox&hide_border=true&card_width=445&langs_count=11&custom_title=Most used languages among all projects" at="Top Langs">
-        </td>
+        </th>
     </tr>
 </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SirojiddinSaidmurodov&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 ![Profile views](https://gpvc.arturio.dev/SirojiddinSaidmurodov)
