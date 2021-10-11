@@ -52,4 +52,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     </tr>
 </table>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SirojiddinSaidmurodov&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Profile views](https://gpvc.arturio.dev/SirojiddinSaidmurodov)
