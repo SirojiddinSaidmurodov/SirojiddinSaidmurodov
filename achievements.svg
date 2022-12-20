@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1563" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.70mb of code in 3315 edited files across 1112 commits</small>
+                <small>estimation from 2.72mb of code in 3326 edited files across 1113 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.6913286422568" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="349.6913286422568" y="0" width="62.45760012201227" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="412.1489287642691" y="0" width="20.360821762462287" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.5097505267314" y="0" width="7.627599371735219" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="440.1373498984666" y="0" width="6.51215879306252" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.64950869152915" y="0" width="4.000083637441531" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="450.64959232897064" y="0" width="3.2781449215468497" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="453.92773725051745" y="0" width="2.019278430272818" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.9470156807903" y="0" width="1.3239315009353865" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.27094718172566" y="0" width="0.5258950128715563" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.7968421945972" y="0" width="0.46875096090810586" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.2655931555053" y="0" width="0.41358714836913135" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.67918030387443" y="0" width="0.3199501127260517" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="458.9991304166005" y="0" width="0.3046739800229511" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.30380439662343" y="0" width="0.22320127227308117" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.5270056688965" y="0" width="0.20255020398925996" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.7295558728858" y="0" width="0.13522206355707578" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8647779364429" y="0" width="0.1015579933409837" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9663359297839" y="0" width="0.023762873093712063" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9900988028776" y="0" width="0.009901197122380027" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="351.15842144098485" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="351.15842144098485" y="0" width="61.62692113515666" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="412.78534257614155" y="0" width="20.090025145875202" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.87536772201673" y="0" width="7.526153166535598" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="440.40152088855234" y="0" width="6.425547820852629" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.82706870940495" y="0" width="3.9468829794464027" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="450.77395168885135" y="0" width="3.234545966465694" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.00849765531706" y="0" width="1.9924222565267624" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.00091991184377" y="0" width="1.3063233623627415" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.30724327420654" y="0" width="0.5189006689385334" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.8261439431451" y="0" width="0.4625166263750133" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.2886605695201" y="0" width="0.4080864862765658" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.69674705579666" y="0" width="0.31569481257099585" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.01244186836766" y="0" width="0.3006218506975796" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.31306371906527" y="0" width="0.22023272070602626" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.5332964397713" y="0" width="0.19985630928455617" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.7331527490558" y="0" width="0.13342362547209194" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.86657637452794" y="0" width="0.10020728356585987" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9667836580938" y="0" width="0.023446829580869716" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.99023048767464" y="0" width="0.009769512325362382" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>33.2k lines</div>
-                                <div>1.24 MB</div>
-                                <div>76.02%</div>
+                                <div>33.7k lines</div>
+                                <div>1.26 MB</div>
+                                <div>76.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>13.58%</div>
+                                <div>13.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>4.43%</div>
+                                <div>4.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             <small>
                                 <div>1.01k lines</div>
                                 <div>26.9 kB</div>
-                                <div>1.66%</div>
+                                <div>1.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -107,7 +107,7 @@
                             <small>
                                 <div>861 lines</div>
                                 <div>23 kB</div>
-                                <div>1.42%</div>
+                                <div>1.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             <small>
                                 <div>536 lines</div>
                                 <div>14.1 kB</div>
-                                <div>0.87%</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -133,7 +133,7 @@
                             <small>
                                 <div>432 lines</div>
                                 <div>11.5 kB</div>
-                                <div>0.71%</div>
+                                <div>0.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,7 @@
                             <small>
                                 <div>203 lines</div>
                                 <div>7.14 kB</div>
-                                <div>0.44%</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -159,7 +159,7 @@
                             <small>
                                 <div>73 lines</div>
                                 <div>4.68 kB</div>
-                                <div>0.29%</div>
+                                <div>0.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -923,7 +923,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Dec 2022, 15:17:48
+                            On 19 Dec 2022, 16:39:36
                         </div>
                     </section>
                 </div>
@@ -933,16 +933,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add JavaCore 9.11 full
-
-Took 1 hour 12 minutes
+                            add JavaCore 10.2
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ff05aed9</span>
-                            <span class="code">2.JavaCore/src/com/javarush/task/task19/task1924/input</span>
+                            <span class="code">b9dc583a</span>
+                            <span class="code">2.JavaCore/src/com/javarush/task/task20/task2004/output</span>
                             <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -950,7 +948,7 @@ Took 1 hour 12 minutes
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Это стоит 1 бакс, а вот это - 12.<br /></span><span class="token prefix inserted">+</span><span class="token line">Переменная имеет имя file1.<br /></span><span class="token prefix inserted">+</span><span class="token line">110 - это число.<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">This is a static test string<br /></span><span class="token prefix inserted">+</span><span class="token line">3<br /></span><span class="token prefix inserted">+</span><span class="token line">4</span></span></code>
                         </div>
                     </section>
                 </div>
