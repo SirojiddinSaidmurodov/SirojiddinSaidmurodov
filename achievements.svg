@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1656" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.74mb of code in 3336 edited files across 1114 commits</small>
+                <small>estimation from 2.76mb of code in 3341 edited files across 1115 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.5122068147225" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="352.5122068147225" y="0" width="60.86039766530436" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="413.37260448002684" y="0" width="19.840142862279325" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.21274734230616" y="0" width="7.432541917854189" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="440.6452892601604" y="0" width="6.345626041204741" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.99091530136513" y="0" width="3.8977911478121214" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="450.8887064491772" y="0" width="3.194314273044333" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="454.08302072222153" y="0" width="1.9676402555221304" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.05066097774363" y="0" width="1.290075146517732" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.34073612426135" y="0" width="0.5124465165334324" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.8531826407948" y="0" width="0.4567637858504021" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.30994642664524" y="0" width="0.4030106547454966" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.7129570813907" y="0" width="0.31176816040845184" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.0247252417991" y="0" width="0.29688267794863193" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.3216079197478" y="0" width="0.21749343816292532" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.53910135791074" y="0" width="0.19737047113390943" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.7364718290446" y="0" width="0.1317640854776658" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8682359145223" y="0" width="0.09896089264954397" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9671968071719" y="0" width="0.023155194937497754" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9903520021094" y="0" width="0.009647997890624064" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.2753843252078" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="353.2753843252078" y="0" width="60.42828081369784" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="413.70366513890565" y="0" width="19.699275230815275" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.4029403697209" y="0" width="7.379769889800098" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="440.7827102595211" y="0" width="6.300571259251502" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.08328151877254" y="0" width="3.870116316499402" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="450.9533978352719" y="0" width="3.171634220339114" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.12503205561103" y="0" width="1.9536697501536586" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.0787018057647" y="0" width="1.2809154428017824" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.35961724856645" y="0" width="0.5088080786684858" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.86842532723495" y="0" width="0.45352070271849426" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.32194602995344" y="0" width="0.4001492259350867" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.7220952558886" y="0" width="0.3095545653437641" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.03164982123235" y="0" width="0.2947747717729743" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.3264245930053" y="0" width="0.21594920606209536" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.5423737990674" y="0" width="0.19596911475343506" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.7383429138208" y="0" width="0.13082854308958378" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.86917145691046" y="0" width="0.09825825725765809" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.96742971416813" y="0" width="0.02299078999900635" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9904205041671" y="0" width="0.009579495832919312" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>34.2k lines</div>
-                                <div>1.28 MB</div>
-                                <div>76.63%</div>
+                                <div>34.4k lines</div>
+                                <div>1.29 MB</div>
+                                <div>76.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>13.23%</div>
+                                <div>13.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>4.31%</div>
+                                <div>4.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             <small>
                                 <div>1.01k lines</div>
                                 <div>26.9 kB</div>
-                                <div>1.62%</div>
+                                <div>1.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -107,7 +107,7 @@
                             <small>
                                 <div>861 lines</div>
                                 <div>23 kB</div>
-                                <div>1.38%</div>
+                                <div>1.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             <small>
                                 <div>536 lines</div>
                                 <div>14.1 kB</div>
-                                <div>0.85%</div>
+                                <div>0.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,7 @@
                             <small>
                                 <div>203 lines</div>
                                 <div>7.14 kB</div>
-                                <div>0.43%</div>
+                                <div>0.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -289,7 +289,7 @@
                             <small>
                                 <div>9 lines</div>
                                 <div>84 bytes</div>
-                                <div>0.01%</div>
+                                <div>0%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -658,7 +658,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 716k out of 104m users</span>
+                                    <span class="gh">ranked 717k out of 104m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -923,7 +923,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Dec 2022, 12:13:47
+                            On 19 Dec 2022, 16:39:36
                         </div>
                     </section>
                 </div>
@@ -933,22 +933,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add JavaCore 10
+                            add JavaCore 10.2
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">0d04c433</span>
-                            <span class="code">2.JavaCore/src/com/javarush/task/task20/task2020/Условие.jrtc</span>
-                            <span class="code"><span class="snippet additions">++10</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">b9dc583a</span>
+                            <span class="code">2.JavaCore/src/com/javarush/task/task20/task2004/output</span>
+                            <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">taskKey="com.javarush.task.task20.task2020"\n\nСериализация человека<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">Сериализуй класс Person стандартным способом. При необходимости добавь некоторым полям модификатор transient.<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">Требования:<br /></span><span class="token prefix inserted">+</span><span class="token line">1.	Класс Person должен поддерживать нужный интерфейс.<br /></span><span class="token prefix inserted">+</span><span class="token line">2.	Некоторые поля должны быть отмечены модификатором transient.<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">This is a static test string<br /></span><span class="token prefix inserted">+</span><span class="token line">3<br /></span><span class="token prefix inserted">+</span><span class="token line">4</span></span></code>
                         </div>
                     </section>
                 </div>
