@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1563" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1549" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.77mb of code in 3347 edited files across 1117 commits</small>
+                <small>estimation from 2.78mb of code in 3352 edited files across 1118 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.4326427508259" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="354.4326427508259" y="0" width="59.77303238131783" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="414.2056751321437" y="0" width="19.485667975401054" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.6913431075448" y="0" width="7.2997480426367645" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="440.99109115018155" y="0" width="6.232251601880293" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.22334275206185" y="0" width="3.8281510708335076" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.05149382289534" y="0" width="3.137242900199341" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="454.1887367230947" y="0" width="1.932485314258103" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.12122203735277" y="0" width="1.267025955551684" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.3882479929045" y="0" width="0.5032908656774746" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.89153885858195" y="0" width="0.44860299323699593" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.34014185181894" y="0" width="0.3958102450890091" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.7359520969079" y="0" width="0.30619793925832367" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.0421500361663" y="0" width="0.2915784090019581" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.3337284451682" y="0" width="0.2136075809680083" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.5473360261363" y="0" width="0.1938441419177363" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.741180168054" y="0" width="0.1294099159730139" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.870590084027" y="0" width="0.0971928030006527" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9677828870277" y="0" width="0.022741491509902026" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9905243785376" y="0" width="0.009475621462459177" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.74998533053247" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="354.74998533053247" y="0" width="59.59335062374576" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="414.34333595427825" y="0" width="19.427092746241684" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.7704287005199" y="0" width="7.277804508807549" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="441.04823320932746" y="0" width="6.2135170341857275" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.2617502435132" y="0" width="3.8166433911114765" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="451.07839363462466" y="0" width="3.127812136930678" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.20620577155535" y="0" width="1.9266761333630635" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.1328819049184" y="0" width="1.263217190268862" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.39609909518725" y="0" width="0.5017779394679092" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.8978770346552" y="0" width="0.4472544624520309" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.3451314971072" y="0" width="0.39462041285749494" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.7397519099647" y="0" width="0.3052774876483083" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.045029397613" y="0" width="0.2907019046836676" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.33573130229667" y="0" width="0.21296546220558377" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.54869676450227" y="0" width="0.19326143338301394" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.74195819788525" y="0" width="0.12902090105737524" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8709790989426" y="0" width="0.09690063489455587" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9678797338372" y="0" width="0.02267312905610778" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9905528628933" y="0" width="0.009447137106711575" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>34.7k lines</div>
+                                <div>34.9k lines</div>
                                 <div>1.31 MB</div>
-                                <div>77.05%</div>
+                                <div>77.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>12.99%</div>
+                                <div>12.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>4.24%</div>
+                                <div>4.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             <small>
                                 <div>1.01k lines</div>
                                 <div>26.9 kB</div>
-                                <div>1.59%</div>
+                                <div>1.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -159,7 +159,7 @@
                             <small>
                                 <div>73 lines</div>
                                 <div>4.68 kB</div>
-                                <div>0.28%</div>
+                                <div>0.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -923,7 +923,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 Dec 2022, 15:17:48
+                            On 19 Dec 2022, 16:39:36
                         </div>
                     </section>
                 </div>
@@ -933,16 +933,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add JavaCore 9.11 full
-
-Took 1 hour 12 minutes
+                            add JavaCore 10.2
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ff05aed9</span>
-                            <span class="code">2.JavaCore/src/com/javarush/task/task19/task1924/input</span>
+                            <span class="code">b9dc583a</span>
+                            <span class="code">2.JavaCore/src/com/javarush/task/task20/task2004/output</span>
                             <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -950,7 +948,7 @@ Took 1 hour 12 minutes
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">Это стоит 1 бакс, а вот это - 12.<br /></span><span class="token prefix inserted">+</span><span class="token line">Переменная имеет имя file1.<br /></span><span class="token prefix inserted">+</span><span class="token line">110 - это число.<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">This is a static test string<br /></span><span class="token prefix inserted">+</span><span class="token line">3<br /></span><span class="token prefix inserted">+</span><span class="token line">4</span></span></code>
                         </div>
                     </section>
                 </div>
