@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1536" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1656" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.boolean{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.79mb of code in 3358 edited files across 1120 commits</small>
+                <small>estimation from 2.80mb of code in 3360 edited files across 1121 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.5322886320299" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="355.5322886320299" y="0" width="59.15040460528998" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="414.6826932373199" y="0" width="19.282694868088306" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.96538810540824" y="0" width="7.2237099748279245" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="441.18909808023614" y="0" width="6.167333146183245" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.3564312264194" y="0" width="3.788275008124721" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.1447062345442" y="0" width="3.1045637053853796" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="454.24926993992955" y="0" width="1.9123555168312774" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.1616254567608" y="0" width="1.2538279376254382" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.41545339438625" y="0" width="0.4980483196678824" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.9135017140541" y="0" width="0.4439301052661006" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.3574318193202" y="0" width="0.3916872745317074" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.7491190938519" y="0" width="0.3030084182594809" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.0521275121114" y="0" width="0.2885411728253412" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.3406686849367" y="0" width="0.21138253050992964" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.5520512154467" y="0" width="0.19182495797859267" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.74387617342524" y="0" width="0.12806191328738448" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.87193808671265" y="0" width="0.0961803909417804" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.96811847765446" y="0" width="0.02250460400866171" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9906230816631" y="0" width="0.009376918336942378" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.8224355951222" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="355.8224355951222" y="0" width="58.98612121057242" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="414.8085568056946" y="0" width="19.22913941748114" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.0376962231758" y="0" width="7.203646957422736" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="441.2413431805985" y="0" width="6.1502040930115855" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.39154727361006" y="0" width="3.777753513257334" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="451.1693007868674" y="0" width="3.095941139436067" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.2652419263034" y="0" width="1.9070441709781365" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.1722860972816" y="0" width="1.2503455758164301" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.422631673098" y="0" width="0.49666504817152646" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.9192967212695" y="0" width="0.4426971408392788" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.3619938621088" y="0" width="0.3905994085135942" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.7525932706224" y="0" width="0.3021668474889706" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.05476011811135" y="0" width="0.28773978315262716" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.342499901264" y="0" width="0.21079544002546224" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.55329534128947" y="0" width="0.1912921863855906" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.7445875276751" y="0" width="0.12770623616244736" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8722937638375" y="0" width="0.09591326105087572" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9682070248884" y="0" width="0.02244210007875644" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.99064912496715" y="0" width="0.009350875032815183" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>35.1k lines</div>
+                                <div>35.2k lines</div>
                                 <div>1.33 MB</div>
-                                <div>77.29%</div>
+                                <div>77.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>12.86%</div>
+                                <div>12.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>4.19%</div>
+                                <div>4.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,7 @@
                             <small>
                                 <div>203 lines</div>
                                 <div>7.14 kB</div>
-                                <div>0.42%</div>
+                                <div>0.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -198,7 +198,7 @@
                             <small>
                                 <div>27 lines</div>
                                 <div>1.46 kB</div>
-                                <div>0.09%</div>
+                                <div>0.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -658,7 +658,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 718k out of 105m users</span>
+                                    <span class="gh">ranked 719k out of 105m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -923,7 +923,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 26 Dec 2022, 16:37:52
+                            On 25 Dec 2022, 16:18:34
                         </div>
                     </section>
                 </div>
@@ -939,16 +939,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">e09215b9</span>
-                            <span class="code">4.JavaCollections/src/com/javarush/task/task31/task3109/properties.txt</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">08b7fdc6</span>
+                            <span class="code">4.JavaCollections/src/com/javarush/task/task31/task3107/FileData.java</span>
+                            <span class="code"><span class="snippet additions">++11</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,2 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">name=Amigo<br /></span><span class="token prefix inserted">+</span><span class="token line">level=31</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package com.javarush.task.task31.task3107;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public interface FileData {<br /></span><span class="token prefix inserted">+</span><span class="token line">   boolean isHidden();<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">   boolean isExecutable();<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">   boolean isDirectory();<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">   boolean isWritable();<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
