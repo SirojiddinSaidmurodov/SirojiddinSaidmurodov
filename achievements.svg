@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1642" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1576" class="">
     <defs>
         <style/>
     </defs>
@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.83mb of code in 3391 edited files across 1124 commits</small>
+                <small>estimation from 2.85mb of code in 3396 edited files across 1125 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.76697009369553" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="357.76697009369553" y="0" width="57.88511113910241" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="415.6520812327979" y="0" width="18.870216407629922" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.52229764042784" y="0" width="7.069186720189591" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="441.5914843606174" y="0" width="6.035406976180854" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="447.6268913367983" y="0" width="3.7072395587835487" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.33413089558184" y="0" width="3.038153607297296" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="454.3722845028791" y="0" width="1.8714480884439157" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.243732591323" y="0" width="1.2270071524120938" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.4707397437351" y="0" width="0.48739450776369286" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="457.95813425149885" y="0" width="0.43443394263821355" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.392568194137" y="0" width="0.383308644621043" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.7758768387581" y="0" width="0.29652672849958933" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.0724035672577" y="0" width="0.28236895366406517" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.35477252092176" y="0" width="0.20686082120793634" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.56163334212965" y="0" width="0.18772160707843144" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.7493549492081" y="0" width="0.12532252539593608" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8746774746041" y="0" width="0.0941229845546884" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.96880045915873" y="0" width="0.022023205299704248" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.99082366445845" y="0" width="0.009176335541543436" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.7264211931897" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="358.7264211931897" y="0" width="57.34186270385939" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.06828389704907" y="0" width="18.693120513117293" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="434.76140441016634" y="0" width="7.00284280983663" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="441.76424722000297" y="0" width="5.978765029204436" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="447.7430122492074" y="0" width="3.6724473289726647" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="451.4154595781801" y="0" width="3.0096407106177674" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.42510028879786" y="0" width="1.8538846558845037" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.27898494468235" y="0" width="1.215491760932961" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.49447670561534" y="0" width="0.48282033837059285" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="457.9772970439859" y="0" width="0.4303568050995548" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.4076538490855" y="0" width="0.37971131506068145" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.78736516414614" y="0" width="0.29374384222546557" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.0811090063716" y="0" width="0.2797189372916237" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.36082794366325" y="0" width="0.20491944431113382" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.56574738797434" y="0" width="0.18595985060427353" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.75170723857866" y="0" width="0.12414638071067421" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8758536192893" y="0" width="0.09323964576387458" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9690932650532" y="0" width="0.021816518785976225" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.99090978383913" y="0" width="0.009090216160823427" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>35.9k lines</div>
-                                <div>1.36 MB</div>
-                                <div>77.78%</div>
+                                <div>36.4k lines</div>
+                                <div>1.38 MB</div>
+                                <div>77.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>12.58%</div>
+                                <div>12.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>4.1%</div>
+                                <div>4.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             <small>
                                 <div>1.01k lines</div>
                                 <div>26.9 kB</div>
-                                <div>1.54%</div>
+                                <div>1.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -107,7 +107,7 @@
                             <small>
                                 <div>861 lines</div>
                                 <div>23 kB</div>
-                                <div>1.31%</div>
+                                <div>1.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             <small>
                                 <div>536 lines</div>
                                 <div>14.1 kB</div>
-                                <div>0.81%</div>
+                                <div>0.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -133,7 +133,7 @@
                             <small>
                                 <div>432 lines</div>
                                 <div>11.5 kB</div>
-                                <div>0.66%</div>
+                                <div>0.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -146,7 +146,7 @@
                             <small>
                                 <div>203 lines</div>
                                 <div>7.14 kB</div>
-                                <div>0.41%</div>
+                                <div>0.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -159,7 +159,7 @@
                             <small>
                                 <div>73 lines</div>
                                 <div>4.68 kB</div>
-                                <div>0.27%</div>
+                                <div>0.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -172,7 +172,7 @@
                             <small>
                                 <div>93 lines</div>
                                 <div>1.86 kB</div>
-                                <div>0.11%</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -923,7 +923,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Jan 2023, 09:20:41
+                            On 30 Dec 2022, 17:36:01
                         </div>
                     </section>
                 </div>
@@ -933,24 +933,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            add JavaCollections 2.12
-
-Took 49 minutes
+                            add JavaCollections 2.8
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3c815d73</span>
-                            <span class="code">4.JavaCollections/src/com/javarush/task/task32/task3207/DoubleStringImpl.java</span>
-                            <span class="code"><span class="snippet additions">++9</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">c460e31f</span>
+                            <span class="code">4.JavaCollections/src/com/javarush/task/task32/task3206/Big.java</span>
+                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,9 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package com.javarush.task.task32.task3207;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">import java.rmi.RemoteException;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public class DoubleStringImpl implements DoubleString {<br /></span><span class="token prefix inserted">+</span><span class="token line">   public String doubleString(String str) throws RemoteException {<br /></span><span class="token prefix inserted">+</span><span class="token line">       return str + str;<br /></span><span class="token prefix inserted">+</span><span class="token line">   }<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,4 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package com.javarush.task.task32.task3206;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public interface Big extends Item {<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
