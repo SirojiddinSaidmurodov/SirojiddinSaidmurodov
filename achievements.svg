@@ -16,32 +16,32 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.90mb of code in 3438 edited files across 1129 commits</small>
+                <small>estimation from 2.91mb of code in 3449 edited files across 1131 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.5912261788176" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="361.5912261788176" y="0" width="55.7197885548597" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="417.31101473367727" y="0" width="18.16433358296369" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.475348316641" y="0" width="6.804747914489258" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="442.28009623113024" y="0" width="5.809639023533833" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.08973525466405" y="0" width="3.5685619371315553" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="451.65829719179555" y="0" width="2.9245046483366663" height="8" fill="#3fb68b"/>
-                    <rect mask="url(#languages-bar)" x="454.5828018401323" y="0" width="1.801442369677867" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.38424420981016" y="0" width="1.1811081941849844" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.5653524039951" y="0" width="0.4691624215790355" height="8" fill="#4B6C4B"/>
-                    <rect mask="url(#languages-bar)" x="458.03451482557415" y="0" width="0.41818296533429894" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="458.4526977909085" y="0" width="0.36897012390992456" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.82166791481836" y="0" width="0.2854344802613712" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.1071023950797" y="0" width="0.271806308790006" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.37890870386974" y="0" width="0.1991227276093916" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="459.5780314314791" y="0" width="0.18069945876847196" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.7587308902476" y="0" width="0.12063455487615865" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.87936544512377" y="0" width="0.09060210293000201" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9699675480538" y="0" width="0.021199377844345873" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.99116692589814" y="0" width="0.00883307410181078" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.26992845518004" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="362.26992845518004" y="0" width="55.335502216739776" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="417.6054306719198" y="0" width="18.039058426362665" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.6444890982824" y="0" width="6.75781716105839" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="442.4023062593408" y="0" width="5.7695713031771" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.1718775625179" y="0" width="3.543950400822076" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="451.71582796334" y="0" width="2.904335024379506" height="8" fill="#3fb68b"/>
+                    <rect mask="url(#languages-bar)" x="454.62016298771954" y="0" width="1.7890182433569999" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.4091812310765" y="0" width="1.1729623674573775" height="8" fill="#74283c"/>
+                    <rect mask="url(#languages-bar)" x="457.5821435985339" y="0" width="0.46592671818445824" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="458.0480703167184" y="0" width="0.4152988553155714" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="458.46336917203394" y="0" width="0.36642542333818073" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.8297945953721" y="0" width="0.28346590546886624" height="8" fill="#15dcdc"/>
+                    <rect mask="url(#languages-bar)" x="459.11326050084097" y="0" width="0.26993172430589646" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.3831922251469" y="0" width="0.19774942477005786" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="459.58094164991695" y="0" width="0.17945321690159877" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.76039486681856" y="0" width="0.11980256659073213" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8801974334093" y="0" width="0.08997724143529882" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9701746748446" y="0" width="0.021053170697952928" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.99122784554254" y="0" width="0.008772154457480386" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,9 +53,9 @@
                                 Java
                             </div>
                             <small>
-                                <div>37.7k lines</div>
-                                <div>1.43 MB</div>
-                                <div>78.61%</div>
+                                <div>38k lines</div>
+                                <div>1.45 MB</div>
+                                <div>78.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -68,7 +68,7 @@
                             <small>
                                 <div>6.30k lines</div>
                                 <div>220 kB</div>
-                                <div>12.11%</div>
+                                <div>12.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -81,7 +81,7 @@
                             <small>
                                 <div>2.19k lines</div>
                                 <div>71.9 kB</div>
-                                <div>3.95%</div>
+                                <div>3.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -94,7 +94,7 @@
                             <small>
                                 <div>1.01k lines</div>
                                 <div>26.9 kB</div>
-                                <div>1.48%</div>
+                                <div>1.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -107,7 +107,7 @@
                             <small>
                                 <div>861 lines</div>
                                 <div>23 kB</div>
-                                <div>1.26%</div>
+                                <div>1.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -120,7 +120,7 @@
                             <small>
                                 <div>536 lines</div>
                                 <div>14.1 kB</div>
-                                <div>0.78%</div>
+                                <div>0.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -133,7 +133,7 @@
                             <small>
                                 <div>432 lines</div>
                                 <div>11.5 kB</div>
-                                <div>0.64%</div>
+                                <div>0.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -159,7 +159,7 @@
                             <small>
                                 <div>73 lines</div>
                                 <div>4.68 kB</div>
-                                <div>0.26%</div>
+                                <div>0.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -942,7 +942,7 @@ Took 11 minutes
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">59d3386a</span>
-                            <span class="code">4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java</span>
+                            <span class="code">4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java</span>
                             <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -950,7 +950,7 @@ Took 11 minutes
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,4 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package com.javarush.task.task25.task2515;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public abstract class BaseObject {<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,4 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">package com.javarush.task.task25.task2515;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">public class Bomb extends BaseObject{<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
