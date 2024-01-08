@@ -52,6 +52,9 @@ jobs:
           plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: xakep13
       
       
       - name: Achievements
