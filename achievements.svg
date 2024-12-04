@@ -31,7 +31,7 @@
                     <rect mask="url(#languages-bar)" x="452.6878124500136" y="0" width="2.4018149417285652" height="8" fill="#3fb68b"/>
                     <rect mask="url(#languages-bar)" x="455.08962739174217" y="0" width="1.4794748924800223" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="456.5691022842222" y="0" width="0.9700115574119507" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="457.53911384163416" y="0" width="0.4787877559020526" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.53911384163416" y="0" width="0.4787877559020526" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="458.01790159753625" y="0" width="0.38531014641641376" height="8" fill="#4B6C4B"/>
                     <rect mask="url(#languages-bar)" x="458.4032117439527" y="0" width="0.34344212620333386" height="8" fill="#5B2063"/>
                     <rect mask="url(#languages-bar)" x="458.74665387015597" y="0" width="0.3030249779778359" height="8" fill="#012456"/>
@@ -165,7 +165,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -367,7 +367,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3579739904175332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4428473648186273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -776,7 +776,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 163m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
