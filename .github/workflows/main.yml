@@ -74,11 +74,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: bytes-size, lines, percentage
           commits_authoring: SirojiddinSaidmurodov, Sirojiddin Saidmurodov, SaidmurodovSirojiddin, Saidmurodov Sirojiddin, siroj.serj15@gmail.com, siroj.serj15@outlook.com
-          plugin_code: yes
-          plugin_code_days: 7
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: xakep13
