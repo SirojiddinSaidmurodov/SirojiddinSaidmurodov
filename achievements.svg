@@ -36,7 +36,7 @@
                     <rect mask="url(#languages-bar)" x="458.4032117439527" y="0" width="0.34344212620333386" height="8" fill="#5B2063"/>
                     <rect mask="url(#languages-bar)" x="458.74665387015597" y="0" width="0.3030249779778359" height="8" fill="#012456"/>
                     <rect mask="url(#languages-bar)" x="459.04967884813385" y="0" width="0.2344194597078881" height="8" fill="#15dcdc"/>
-                    <rect mask="url(#languages-bar)" x="459.2840983078417" y="0" width="0.22322701866082711" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.2840983078417" y="0" width="0.22322701866082711" height="8" fill="#e16737"/>
                     <rect mask="url(#languages-bar)" x="459.50732532650255" y="0" width="0.16353399974316862" height="8" fill="#c22d40"/>
                     <rect mask="url(#languages-bar)" x="459.6708593262457" y="0" width="0.14840347758695657" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="459.81926280383266" y="0" width="0.09907383000916932" height="8" fill="#384d54"/>
@@ -230,9 +230,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e16737" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Limbo
+                                MATLAB
                             </div>
                             <small>
                                 <div>34 lines</div>
